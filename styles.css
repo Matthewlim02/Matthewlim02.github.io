@@ -1,0 +1,17 @@
+.bi-github {
+    font-size: 2rem;
+    margin-right: 1.5rem;
+}
+
+.bi-linkedin {
+    font-size: 2rem;
+    margin-right: 2.5rem;
+}
+
+.icons {
+    display: flex;
+}
+
+#mainnav {
+    margin-left: 1.5rem;
+}
