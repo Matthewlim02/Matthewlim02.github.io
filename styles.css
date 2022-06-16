@@ -1,11 +1,18 @@
+body {
+    background-color: rgb(19, 19, 19);
+    
+}
+
 .bi-github {
     font-size: 2rem;
     margin-right: 1.5rem;
+    color: white;
 }
 
 .bi-linkedin {
     font-size: 2rem;
     margin-right: 2.5rem;
+    color: white;
 }
 
 .icons {
@@ -14,4 +21,27 @@
 
 #mainnav {
     margin-left: 1.5rem;
+}
+
+nav {
+    background-color: rgb(0, 0, 0);
+}
+
+#pfpimage {
+    display: inline-block;
+    margin-left: 11rem;
+}
+
+#homeheader {
+    color: white;
+    display: inline-block;
+}
+
+#hometext {
+    color: white;
+    display: inline-block;
+}
+
+#homemain {
+    margin: 15rem 34rem 0 30rem;
 }
